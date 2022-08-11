@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning AL & ML
 - 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me jaikishanpoonia@gmail.com
-- OpenSource Contrbutor
+- OpenSource contributor
 - Love leetcode
 - Google Certified
 
