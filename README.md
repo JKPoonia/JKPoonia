@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JKPoonia
+- 👋 Hi, I’m @JKPoonia Jai kishan poonia
 - 👀 I’m interested in Python (open source)
 - 🌱 I’m currently learning AL & ML
 - 💞️ I’m looking to collaborate on DevOps
